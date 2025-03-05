@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:burlywood;
+}
+
+canvas{
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 60px;
+    box-shadow: 15px 15px 15px rgb(163, 135, 98);
+}
